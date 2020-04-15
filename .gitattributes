@@ -1,0 +1,4 @@
+cooked_traces/* linguist-vendored
+cooked_test_traces/* linguist-vendored
+results* linguist-vendored
+trained_models/* linguist-vendored
